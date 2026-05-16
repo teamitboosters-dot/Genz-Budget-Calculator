@@ -1,0 +1,8 @@
+{
+  "name": "Gen Z Budget Calculator",
+  "description": "A fresh way to track your daily expenses and income with Gen-Z style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
